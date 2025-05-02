@@ -41,9 +41,9 @@ Este projeto consiste em um dashboard desenvolvido no **Power BI Desktop**, com 
 - Ideal para **apresentações corporativas**, tomada de decisão e acompanhamento de metas.
 - Otimização visual e textual para **experiência de leitura rápida**.
 
-## 👨‍💼 Sobre o Autor
+## 👨‍💻 Desenvolvido por
 
-Este projeto foi desenvolvido por **Danilo** como parte do seu portfólio de análise de dados. Danilo possui interesse em finanças, BI e soluções baseadas em dados para suporte à gestão e controle estratégico.
+Danilo 🧠
 
 ---
 
